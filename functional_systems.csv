@@ -1,0 +1,4 @@
+Code,Name,Description
+A,"Transforming system","Functional System transforming energy (ie PV Plant block, wind turbine)"
+B,"Transporting system","Functional system transporting electrical power (ie HV substation, cabling)"
+F,"Managing system","Functional system managing energy supply and generation (ie SCADA system)"

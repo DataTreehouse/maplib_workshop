@@ -1,0 +1,9 @@
+Code,Name,Description
+JE,Transport or distribution system for electrical energy,Transport or distribution system for electrical energy
+JH,Transport of distribution system for data,Transport of distribution system for data
+KF,Treatment system for transforming electrical energy,Treatment system for transforming electrical energy
+KK,Treatment system controlling a position,Treatment system controlling a position
+KL,Treatment system controlling a flow of electricity,Treatment system controlling a flow of electricity
+LA,Monitor and control system in a central unit for process operation,Monitor and control system in a central unit for process operation
+LE,Monitor and/or control system which provides monitoring,Monitor and/or control system which provides monitoring
+RG,Energy conversion system from solar energy to electrical energy, "Energy Conversion system from solar energy to electrical energy (ie Photovoltaic Arrays, Photovoltaic Strings)"
